@@ -1,6 +1,8 @@
 # Naxos - Multifunctional-Discord-Bot
 I will not disclose the code for this project, unless contacted.
 
+Tech stack -> Node.JS, SQLite, Discord.js, Express.js, React
+
 SNIPPETS
 
 
